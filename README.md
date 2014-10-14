@@ -1,4 +1,4 @@
-Interactive Storytelling
+IP - Interactive Storytelling
 ========================
 
 Interdisziplinäres Projekt - Interactive Storytelling  (Nicola Ammon, Stefan Ammon, Philipp Pape)
