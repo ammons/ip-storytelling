@@ -14,36 +14,32 @@
 
 		    scrollY = $(window).scrollTop();
 		    
-		    //console.log(scroll);
+		    //console.log(scrollY);
 		    
 		 	$( ".scrollVal" ).html( "Scroll-Y = " + scrollY );
 			
 			if (scrollY >= 0) {
-			 	// $( ".scrollVal" ).css( "color", "black" );				
 				$('.obj').css({'top':scrollY+60+'px'});
 			} 
 			if (scrollY >= 200) {
-			 	// $( ".scrollVal" ).css( "color", "white" );
 				$('.obj').css({'width':scrollY+60+'px'});
 			}
 			if (scrollY >= 300) {
-			 	// $( ".scrollVal" ).css( "color", "white" );
 				$('.obj').css({'hight':scrollY+60+''});
 			}
-
 		});
 		
 	</script>
 
 </head>
 
-	<body>
-		<div class="scrollVal">Scroll-Y</div>
-		<div class="section1">Section1</div>
-		<div class="section2">Section2</div>
-		<div class="section3">Section3</div>
-		<div class="obj">obj</div>
-	</body>
+<body>
+	<div class="scrollVal">Scroll-Y</div>
+	<div class="section1">Section1</div>
+	<div class="section2">Section2</div>
+	<div class="section3">Section3</div>
+	<div class="obj">obj</div>
+</body>
 
 </html>
 
