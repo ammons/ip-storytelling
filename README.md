@@ -16,12 +16,16 @@ Abgerundet wird der Kurs durch eine Exkursion zu Agenturen und Büros in Frankf
 Workshops, Vorlesungen, Arbeitsbesprechungen, Exkursion
 
 #### Qualifikationsziel
-Visualisierungsmethoden kennen lernen 
-Aktuelles Webdesign kennen lernen und erproben 
-Interaktives Storytelling erproben
+- Visualisierungsmethoden kennen lernen 
+- Aktuelles Webdesign kennen lernen und erproben 
+- Interaktives Storytelling erproben
 
 #### Leistungsnachweis
+- Zwischenpräsentation
+- Endpräsentation
+- Ausgearbeitetes Konzept zu einer interaktiven Erzählung Umsetzung in interaktiver Form
 
-Zwischenpräsentation
-Endpräsentation
-Ausgearbeitetes Konzept zu einer interaktiven Erzählung Umsetzung in interaktiver Form
+
+
+
+
