@@ -1,0 +1,57 @@
+<!doctype html>
+
+<html lang="de">
+
+<head>
+	<meta charset="utf-8">
+	<title>IP-Storytelling / Beispiel 03</title>
+	<link href="main.css" rel="stylesheet" type="text/css">
+	<script type="text/javascript" src="main.js"></script>
+	<script type="text/javascript" src="http://code.jquery.com/jquery-1.9.1.js"></script>
+
+	<script type="text/javascript">
+		$(function() {
+
+			var vid = $('#v0')[0];
+
+			// pause video on load
+			vid.pause();
+			 
+			// pause video on document scroll (stops autoplay once scroll started)
+			window.onscroll = function(){
+				scrollY = $(window).scrollTop();
+				$( ".scrollVal" ).html( "Scroll-Y = " + scrollY );
+
+			    vid.pause();
+			};
+
+			// refresh video frames on interval for smoother playback
+			setInterval(function(){
+			    vid.currentTime = window.pageYOffset/400;
+			}, 40);
+
+		});
+	</script>
+</head>
+
+<body>
+
+
+	<div class="scrollVal">Scroll-Y</div>
+
+	<video id="v0" tabindex="0" autobuffer="autobuffer" preload="preload">
+		<source type="video/webm; codecs=&quot;vp8, vorbis&quot;" src="http://www.html5rocks.com/tutorials/video/basics/Chrome_ImF.webm"></source>
+		<source type="video/ogg; codecs=&quot;theora, vorbis&quot;" src="http://www.html5rocks.com/tutorials/video/basics/Chrome_ImF.ogv"></source>
+		<source type="video/mp4; codecs=&quot;avc1.42E01E, mp4a.40.2&quot;" src="http://www.html5rocks.com/tutorials/video/basics/Chrome_ImF.mp4"></source>
+	</video>
+
+	<div class="section1">Section1</div>
+	<div class="section2">Section2</div>
+	<div class="section3">Section3</div>
+	<!-- <div class="obj">obj</div> -->
+
+</body>
+
+</html>
+
+

@@ -1,0 +1,21 @@
+<manifest alg="2" build="569" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1413748787780">
+  <folder name="images">
+    <file name="svg 22x22 eingefügt.svg" crc="4150869579" ref="index"/>
+    <file name="svg 22x22 eingefügt_poster_.png" crc="3873565637" ref="index"/>
+    <file name="svg 22x22 eingefügt2.svg" crc="4150869579" ref="index"/>
+    <file name="svg 22x22 eingefügt_poster_2.png" crc="3873565637" ref="index"/>
+    <file name="svg 22x22 eingefügt3.svg" crc="4150869579" ref="index"/>
+    <file name="svg 22x22 eingefügt_poster_3.png" crc="3873565637" ref="index"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="3777184675"/>
+    <file name="index.css" crc="4199611328" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3769949617" ref="index"/>
+    <file name="museutils.js" crc="4050293121" ref="index"/>
+    <file name="jquery.watch.js" crc="3946357177" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="398671634" ref="index"/>
+  </folder>
+  <file name="index.html" crc="468719323" mt="1413748759281" redirect="true"/>
+</manifest>
