@@ -14,6 +14,9 @@ Interdisziplinäres Projekt - Interactive Storytelling (Nicola Ammon, Stefan Am
 - http://helpx.adobe.com/de/muse/using/scroll-effects-design-ideas.html
 - http://www.scrolleffects.com/
 - http://www.scrolleffects.com/assets/scroll-fx.muse
+
+#####Beispiel 05 (Prototyping)
+- http://blog.thoughtbrain.com/2014/04/03/prototyping-animations-with-keynote/
  
 
 #### Kursinhalt
