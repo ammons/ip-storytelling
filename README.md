@@ -3,6 +3,9 @@ IP - Interactive Storytelling
 
 Interdisziplinäres Projekt - Interactive Storytelling (Nicola Ammon, Stefan Ammon, Philipp Pape)
 
+-----
+
+
 ####Links zu den Beispielen:
 
 #####Beispiel 02  (Skrollr Javascript Library)
@@ -21,13 +24,16 @@ Interdisziplinäres Projekt - Interactive Storytelling (Nicola Ammon, Stefan Am
 #####Beispiel 05 (Prototyping)
 - http://blog.thoughtbrain.com/2014/04/03/prototyping-animations-with-keynote/
 
+
 ####Beispiele interactive Storytelling
 - http://www.nytimes.com/projects/2012/snow-fall/#/?part=tunnel-creek
 - http://www.kennedyandoswald.com/#!/premiere-screen
 - http://360langstrasse.srf.ch/page/
 - http://warsawrising.eu/
  
----------------------------------------
+
+-----
+
 
 #### Kursinhalt
 Seit einiger Zeit kursiert ein ›Buzzword‹ unter Designern, das Spannung und Substanz verspricht, aber auch für Missverständnis sorgt: das Storytelling. Mit Nicola Ammon von GARDENERS und Stefan Ammon von MESO Web Scapes werden Sie untersuchen, was es mit diesem Begriff im Bereich des Design überhaupt auf sich hat und welche verschiedenen Varianten des Storytelling sinnvoll sind, um dann eine eigene ›Erzählung‹ auszuarbeiten.
