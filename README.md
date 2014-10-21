@@ -5,11 +5,11 @@ Interdisziplinäres Projekt - Interactive Storytelling (Nicola Ammon, Stefan Am
 
 ###Links zu den Beispielen:
 
-####Besipiel 02
+#####Beispiel 02  (Skrollr Javascript Library)
 - https://github.com/Prinzhorn/skrollr
 - https://raw.github.com/Prinzhorn/skrollr/master/guide/anchor-position-guide.pdf
 
-####Beispiel 03
+#####Beispiel 03 (Adobe Muse Scrolleffekte)
 - http://helpx.adobe.com/de/muse/using/scroll-effects.html
 - http://helpx.adobe.com/de/muse/using/scroll-effects-design-ideas.html
  
