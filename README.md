@@ -8,6 +8,9 @@ Interdisziplinäres Projekt - Interactive Storytelling (Nicola Ammon, Stefan Am
 #####Beispiel 02  (Skrollr Javascript Library)
 - https://github.com/Prinzhorn/skrollr
 - https://raw.github.com/Prinzhorn/skrollr/master/guide/anchor-position-guide.pdf
+- https://ihatetomatoes.net/create-scrolling-slideshow-using-skrollr/
+- http://www.theguardian.com/info/developer-blog/2012/nov/20/how-we-built-america-elect-graphic-novel-interactive
+- http://www.theguardian.com/world/interactive/2012/nov/06/america-elect-graphic-novel
 
 #####Beispiel 04 (Adobe Muse Scrolleffekte)
 - http://helpx.adobe.com/de/muse/using/scroll-effects.html
