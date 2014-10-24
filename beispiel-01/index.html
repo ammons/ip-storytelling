@@ -3,45 +3,41 @@
 <html lang="de">
 
 <head>
-  <meta charset="utf-8">
-  <title>IP-Storytelling / Beispiel 01</title>
-  <link href="main.css" rel="stylesheet" type="text/css">
+    <meta charset="utf-8">
+    <title>IP-Storytelling / Beispiel 01</title>
+    <link href="main.css" rel="stylesheet" type="text/css">
 
-  <script type="text/javascript" src="main.js"></script>
-  <script type="text/javascript" src="http://code.jquery.com/jquery-1.9.1.js"></script>
-  <script type="text/javascript">
+    <script type="text/javascript" src="main.js"></script>
+    <script type="text/javascript" src="http://code.jquery.com/jquery-1.9.1.js"></script>
+    <script type="text/javascript">
+    $(window).scroll(function(event) {
 
-		$( window ).scroll(function (event) {
+        scrollY = $(window).scrollTop();
 
-		    scrollY = $(window).scrollTop();
-		    
-		    //console.log(scrollY);
-		    
-		 	$( ".scrollVal" ).html( "Scroll-Y = " + scrollY );
-			
-			if (scrollY >= 0) {
-				$('.obj').css({'top':scrollY+60+'px'});
-			} 
-			if (scrollY >= 200) {
-				$('.obj').css({'width':scrollY+60+'px'});
-			}
-			if (scrollY >= 300) {
-				$('.obj').css({'hight':scrollY+60+''});
-			}
-		});
-		
-	</script>
+        //console.log(scrollY);
+
+        $(".scrollVal").html("Scroll-Y = " + scrollY);
+
+	    if (scrollY >= 0) {
+	        $('.obj').css('top', scrollY + 60);
+	    }
+	    if (scrollY >= 200) {
+	        $('.obj').css('width', scrollY + 60);
+	    }
+	    if (scrollY >= 300) {
+	        $('.obj').css('hight', scrollY + 60);
+	    }
+    });
+    </script>
 
 </head>
 
 <body>
-	<div class="scrollVal">Scroll-Y</div>
-	<div class="section1">Section1</div>
-	<div class="section2">Section2</div>
-	<div class="section3">Section3</div>
-	<div class="obj">obj</div>
+    <div class="scrollVal">Scroll-Y</div>
+    <div class="section1">Section1</div>
+    <div class="section2">Section2</div>
+    <div class="section3">Section3</div>
+    <div class="obj">obj</div>
 </body>
 
 </html>
-
-

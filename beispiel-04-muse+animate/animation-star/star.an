@@ -1,0 +1,76 @@
+
+{
+
+	"HTMLFileName":"star.html",
+	"PosterCapturePos":"0",
+	"expanded:images/Pasted.svg":"nil",
+	"ModelData":"{\
+\"stage\": {\
+   \"timelines\": {\
+      \"Default Timeline\": {\
+      }\
+   }},\
+\"star\": {\
+   \"timelines\": {\
+      \"Default Timeline\": {\
+      }\
+   }},\
+\"Preloader\": {\
+   \"timelines\": {\
+\
+   }},\
+\"Abwärtskompatibel\": {\
+   \"timelines\": {\
+\
+   }}\
+}",
+	"stage-Default Timeline_playhead_ms":"3000",
+	"PubDPSTransparentPoster":"true",
+	"usedBOM":"false",
+	"PosterImagePath":"images/Poster.png",
+	"symbol_star":{
+		"element_${_star}":{
+			"timelineColor2":"0x81aa62",
+			"timelineColor3":"0x5b6c4d",
+			"timelineColor":"0x91c767",
+			"animationEnabled":"false",
+			"usingMotionPaths":"true"}},
+	"pref__general__AutoKeyframeProperties":"true",
+	"pref__general__FilterNonAnimatedElements":"false",
+	"PubWeb":"false",
+	"expanded:images/Poster.png":"nil",
+	"StageZoomFactor":"100",
+	"pref__general__AutoKeyframePropertiesArmed":"true",
+	"PubDPSDir":"./",
+	"symbol_stage":{
+		"dummyStageParentWidth":"963px",
+		"defaultStageParentHeight":"309px",
+		"element_${_star}":{
+			"timelineColor2":"0x1aa38f",
+			"timelineColor3":"0x2a6a61",
+			"animationEnabled":"false",
+			"timelineColor":"0x00bda4"},
+		"element_${_star2}":{
+			"timelineColor2":"0x4fa275",
+			"timelineColor3":"0x456a55",
+			"timelineColor":"0x50bd82",
+			"animationEnabled":"true",
+			"usingMotionPaths":"true"},
+		"defaultStageParentWidth":"963px",
+		"element_${_Stage}":{
+			"timelineColor2":"0xcbbd71",
+			"timelineColor3":"0x7b7652",
+			"animationEnabled":"true",
+			"timelineColor":"0xeedf79"},
+		"dummyStageParentHeight":"309px"},
+	"PreloadAudio":"auto",
+	"star-Default Timeline_playhead_ms":"0",
+	"viewStartY":"0",
+	"pixelsPerMs":"0.2",
+	"CompZoomFactor":"100",
+	"stage-Default Timeline_mark_ms":"3000",
+	"PubDPS":"true",
+	"pref__general__GenerateSmoothTransitions":"true",
+	"nextElementColorIndex":"5",
+	"TransitionIdCounter":"9",
+	"star-Default Timeline_mark_ms":"3000"}
