@@ -34,36 +34,44 @@ Interdisziplinäres Projekt - Interactive Storytelling (Nicola Ammon, Stefan Am
 ---
 ####Links zum Kurs #141103
 
-##### Zooming / "Ken Burns" Effect
+#####Zooming / "Ken Burns" Effect
 - http://www.zoomquilt.org/
 - Ken Burns Effect https://www.youtube.com/watch?v=SeqlHmhio4s
 - Ken Burns on Story https://www.youtube.com/watch?v=H37yNkrw3_4
 - Javascript Library http://subchild.com/slideshowify/demo-full.html
-##### Parallax Effect
+
+#####Parallax Effect
 - http://jonathannicol.com/projects/parallax-scrolling/
 - Javascript Library http://matthew.wagerfield.com/parallax/
-##### Parallax + "Field of View" Effect (Tiefenunschärfe)
+
+#####Parallax + "Field of View" Effect (Tiefenunschärfe)
 - http://www.ok-studios.de/home/
 - http://pressels.com/
 - http://hotdot.pro/ru/#bilet2u
 - http://www.teapot-creation.com/#/page/home
-##### "Tilt-Shift" Effect
+
+#####"Tilt-Shift" Effect
 - https://vimeo.com/9679622
 - http://www.netzwelt.de/news/76156-fototipp-miniaturlandschaften-erschaffen.html
-##### Gegenüberstellung und Vergleich / X versus Y
+
+#####Gegenüberstellung und Vergleich / X versus Y
 - http://krystalrae.com/
 - http://flashvhtml.com/
 - http://www.flatvsrealism.com/
-##### Konstruktion / Dekonstruktion
+
+#####Konstruktion / Dekonstruktion
 - http://discover.store.sony.com/be-moved/
-##### Meaningful Animation
+
+#####Meaningful Animation
 - http://www.beyondkinetic.com/motion-ui-design-principles/
 - https://developers.google.com/web/fundamentals/look-and-feel/
 - http://www.google.com/design/spec/animation/meaningful-transitions.html#
 - http://www.google.com/design/spec/material-design/introduction.html#
 - https://www.youtube.com/watch?v=isYZXwaP3Q4
-##### Muster im Storytelling
+
+#####Muster im Storytelling
 - http://de.slideshare.net/mindcaffeine/six-pattern-of-interactive-storytelling
+
 
 ---
 #### Kursinhalt
